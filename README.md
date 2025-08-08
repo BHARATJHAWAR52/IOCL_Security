@@ -30,23 +30,6 @@ The system enhances workplace safety and security by integrating *QR-based acces
 ### *Frontend*
 - React.js – Integration with backend APIs for a smooth UI/UX.
 
----
-
-## 📂 Project Structure
-
-
-📁 SmartSecuritySystem
-├── backend/           # Django backend
-├── frontend/          # React.js frontend
-├── models/            # YOLOv11 and face recognition models
-├── scripts/           # Utility scripts
-├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
-
-`
-
----
-
 ## ⚙️ Installation & Setup
 
 ### **1️⃣ Clone the repository**
@@ -69,7 +52,7 @@ python manage.py runserver
 bash
 cd frontend
 npm install
-npm start
+npm run dev
 
 ## 🎯 Achievements
 
