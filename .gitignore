@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Django
+/media/
+db.sqlite3
+.env
+qr_backend/media
+qr_backend/libiconv.dll
+qr_backend/libzbar-0.dll
+qr_backend/libzbar-64.dll
+# React
+frontend/node_modules/
+frontend/build/
+frontend/.next/
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# virtual env
+myenv39/
+myenv/
+
