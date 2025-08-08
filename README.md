@@ -70,25 +70,12 @@ bash
 cd frontend
 npm install
 npm start
-```
-
----
-
-## 📸 Screenshots / Demo
-
-## 📸 Screenshots / Demo
-
-[HelmetDetection]qr_backend/static/images/helmet%20wear.jpg)
-[HelmetDetection]qr_backend/static/images/Screenshot%202025-08-08%20215017.png)
----
 
 ## 🎯 Achievements
 
 * Successfully deployed and tested the system in industrial conditions.
 * Optimized detection models for real-time inference on edge devices.
 * Strengthened teamwork and adaptability while meeting strict deadlines.
-
----
 
 ## 🤝 Acknowledgements
 
